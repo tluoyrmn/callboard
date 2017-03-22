@@ -1,0 +1,54 @@
+[Sat Jul 16 15:28:20 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico
+[Sat Jul 16 15:28:20 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico
+[Sat Jul 16 19:06:03 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico
+[Sat Jul 16 19:06:03 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico
+[Sun Jul 17 04:59:51 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico
+[Sun Jul 17 04:59:51 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico
+[Sun Jul 17 05:06:27 2016] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function fb() in D:\\Develop\\web\\yii\\testdrive\\protected\\components\\UserIdentity.php on line 48, referer: http://testdrive/index.php?r=site/login
+[Sun Jul 17 14:14:56 2016] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined function fb() in D:\\Develop\\web\\yii\\testdrive\\protected\\components\\UserIdentity.php on line 48, referer: http://testdrive/index.php?r=site/login
+[Mon Jul 18 13:12:01 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico
+[Mon Jul 18 13:12:01 2016] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico
+[Sun Jan 08 09:58:22 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico
+[Sun Jan 08 09:58:22 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico
+[Mon Mar 20 18:14:41 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico, referer: http://testdrive/
+[Mon Mar 20 19:33:08 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico, referer: http://testdrive/index.php?r=site/index
+[Tue Mar 21 08:29:10 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico, referer: http://testdrive/
+[Tue Mar 21 12:57:16 2017] [error] [client 127.0.0.1] PHP Fatal error:  Class 'app\\controllers\\Controller' not found in D:\\Develop\\web\\yii\\testdrive\\protected\\controllers\\UserController.php on line 8, referer: http://testdrive/index.php
+[Tue Mar 21 13:33:38 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method CHtml::img() in D:\\Develop\\web\\yii\\testdrive\\protected\\views\\user\\_view.php on line 25, referer: http://testdrive/index.php?r=user/update&id=5
+[Tue Mar 21 13:39:54 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to undefined method Yii::getAlias() in D:\\Develop\\web\\yii\\testdrive\\protected\\controllers\\UserController.php on line 54, referer: http://testdrive/index.php?r=user/update&id=5
+[Tue Mar 21 13:40:37 2017] [error] [client 127.0.0.1] PHP Fatal error:  Access to undeclared static property: Yii::$app in D:\\Develop\\web\\yii\\testdrive\\protected\\controllers\\UserController.php on line 54, referer: http://testdrive/index.php?r=user/update&id=5
+[Tue Mar 21 14:02:28 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/@web, referer: http://testdrive/index.php?r=user/view&id=5
+[Tue Mar 21 14:03:01 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/009.jpg, referer: http://testdrive/index.php?r=user/view&id=5
+[Tue Mar 21 14:03:01 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/009.jpg, referer: http://testdrive/index.php?r=user/view&id=5
+[Tue Mar 21 14:03:06 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/009.jpg, referer: http://testdrive/index.php?r=user/view&id=5
+[Tue Mar 21 14:03:06 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/009.jpg, referer: http://testdrive/index.php?r=user/view&id=5
+[Tue Mar 21 14:03:09 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/009.jpg, referer: http://testdrive/index.php?r=user/view&id=5
+[Tue Mar 21 14:03:09 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/009.jpg, referer: http://testdrive/index.php?r=user/view&id=5
+[Tue Mar 21 14:57:23 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/099.jpg, referer: http://testdrive/index.php?r=user/view&id=12
+[Tue Mar 21 14:57:25 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/099.jpg, referer: http://testdrive/index.php?r=user/view&id=12
+[Tue Mar 21 14:57:26 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/099.jpg, referer: http://testdrive/index.php?r=user/view&id=12
+[Tue Mar 21 15:23:22 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function hasErrors() on a non-object in D:\\Develop\\web\\yii\\framework\\web\\helpers\\CHtml.php on line 2453, referer: http://testdrive/index.php?r=user/view&id=12
+[Tue Mar 21 15:44:17 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/IMG_0382 \xd0\xba\xd0\xbe\xd0\xbf\xd0\xb8\xd1\x8f.jpg, referer: http://testdrive/index.php?r=user/view&id=12
+[Tue Mar 21 19:14:31 2017] [error] [client 127.0.0.1] PHP Fatal error:  Access to undeclared static property: Yii::$app in D:\\Develop\\web\\yii\\testdrive\\protected\\controllers\\CommentController.php on line 65, referer: http://testdrive/index.php
+[Tue Mar 21 20:22:43 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico, referer: http://testdrive/index.php?r=comment/create&promo_id=1
+[Tue Mar 21 21:51:57 2017] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected ')' in D:\\Develop\\web\\yii\\testdrive\\protected\\models\\Promo.php on line 115, referer: http://testdrive/index.php?r=comment/index&promo_id=2
+[Wed Mar 22 08:59:29 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/favicon.ico, referer: http://testdrive/
+[Wed Mar 22 09:32:13 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getText() on a non-object in D:\\Develop\\web\\yii\\testdrive\\protected\\models\\Promo.php on line 117, referer: http://testdrive/index.php?r=comment/create&promo_id=1
+[Wed Mar 22 09:36:07 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function createCommand() on a non-object in D:\\Develop\\web\\yii\\testdrive\\protected\\models\\Promo.php on line 117, referer: http://testdrive/index.php?r=comment/create&promo_id=1
+[Wed Mar 22 09:39:07 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function createCommand() on a non-object in D:\\Develop\\web\\yii\\testdrive\\protected\\models\\Promo.php on line 117, referer: http://testdrive/index.php?r=comment/create&promo_id=1
+[Wed Mar 22 09:39:30 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function prepare() on a non-object in D:\\Develop\\web\\yii\\testdrive\\protected\\models\\Promo.php on line 117, referer: http://testdrive/index.php?r=comment/create&promo_id=1
+[Wed Mar 22 09:40:33 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function createCommand() on a non-object in D:\\Develop\\web\\yii\\testdrive\\protected\\models\\Promo.php on line 117, referer: http://testdrive/index.php?r=comment/create&promo_id=1
+[Wed Mar 22 10:07:57 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getDbCriteria() on a non-object in D:\\Develop\\web\\yii\\framework\\web\\CActiveDataProvider.php on line 225, referer: http://testdrive/index.php?r=comment/index&promo_id=1
+[Wed Mar 22 12:16:59 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/\xd0\xba\xd0\xbe\xd1\x88\xd0\xba\xd0\xb0.jpg, referer: http://testdrive/index.php?r=site/index
+[Wed Mar 22 12:17:08 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/\xd0\xba\xd0\xbe\xd1\x88\xd0\xba\xd0\xb0.jpg, referer: http://testdrive/index.php?r=site/index
+[Wed Mar 22 12:20:18 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/\xd0\xba\xd0\xbe\xd1\x88\xd0\xba\xd0\xb0.jpg, referer: http://testdrive/index.php?r=site/index
+[Wed Mar 22 12:29:49 2017] [error] [client 127.0.0.1] PHP Fatal error:  Call to a member function getName() on a non-object in D:\\Develop\\web\\yii\\testdrive\\protected\\controllers\\SiteController.php on line 22, referer: http://testdrive/index.php?r=site/index
+[Wed Mar 22 12:31:20 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/\xd0\xba\xd0\xbe\xd1\x88\xd0\xba\xd0\xb0.jpg, referer: http://testdrive/index.php?r=site/index
+[Wed Mar 22 12:33:10 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/\xd0\xba\xd0\xbe\xd1\x88\xd0\xba\xd0\xb0.jpg, referer: http://testdrive/index.php?r=site/index
+[Wed Mar 22 12:33:48 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/\xd0\xba\xd0\xbe\xd1\x88\xd0\xba\xd0\xb0.jpg, referer: http://testdrive/index.php?r=site/index
+[Wed Mar 22 12:34:07 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/\xd0\xba\xd0\xbe\xd1\x88\xd0\xba\xd0\xb0.jpg, referer: http://testdrive/index.php?r=site/index
+[Wed Mar 22 12:37:00 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/\xd0\xba\xd0\xbe\xd1\x88\xd0\xba\xd0\xb0.jpg, referer: http://testdrive/index.php?r=site/index
+[Wed Mar 22 12:37:28 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/\xd0\xba\xd0\xbe\xd1\x88\xd0\xba\xd0\xb0.jpg, referer: http://testdrive/index.php?r=site/index
+[Wed Mar 22 12:37:45 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/\xd0\xba\xd0\xbe\xd1\x88\xd0\xba\xd0\xb0.jpg, referer: http://testdrive/index.php?r=site/index
+[Wed Mar 22 13:03:17 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/1490179427.jpg, referer: http://testdrive/index.php?r=user/view&id=5
+[Wed Mar 22 13:03:20 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/1490179427.jpg, referer: http://testdrive/index.php?r=user/view&id=5
