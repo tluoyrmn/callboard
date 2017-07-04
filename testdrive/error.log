@@ -52,3 +52,4 @@
 [Wed Mar 22 12:37:45 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/\xd0\xba\xd0\xbe\xd1\x88\xd0\xba\xd0\xb0.jpg, referer: http://testdrive/index.php?r=site/index
 [Wed Mar 22 13:03:17 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/1490179427.jpg, referer: http://testdrive/index.php?r=user/view&id=5
 [Wed Mar 22 13:03:20 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/yii/testdrive/images/1490179427.jpg, referer: http://testdrive/index.php?r=user/view&id=5
+[Sat Apr 01 18:22:56 2017] [error] [client 127.0.0.1] File does not exist: D:/Develop/web/Singree/callboard/testdrive/favicon.ico, referer: http://testdrive/
